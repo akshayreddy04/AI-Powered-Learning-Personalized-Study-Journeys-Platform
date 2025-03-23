@@ -1,4 +1,5 @@
-# Focus Learn
+# AI-Powered-Learning-Personalized-Study-Journeys-Platform
+
 
 ## Description
 
@@ -68,7 +69,7 @@ Make sure you have the following installed:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/mdnumanraza/focusLearn.git
+    git clone https://github.com/akshayreddy04/AI-Powered-Learning-Personalized-Study-Journeys-Platform.git
     cd focusLearn
     ```
 
